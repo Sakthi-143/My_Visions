@@ -6,7 +6,7 @@
 
 This project focuses on collecting raw data from diverse sources and cleaning it to ensure its quality and suitability for analysis. Effective data collection and cleaning are critical steps in any data science or machine learning project, as the quality of the data directly impacts the accuracy and reliability of subsequent analyses and models. 📊✨
 
-## Table of Contents
+## Table of Contents:
 
 1. [Introduction](#introduction)
 2. [Data Collection](#data-collection)
