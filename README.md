@@ -150,7 +150,7 @@ The following are the tools that are covered in Complete Machine Learning Packag
 
 # Food Delivery Time Prediction Model
 
-![Image Description](img/food-delivery.png)
+![Image Description](Food delivery/food-delivery.png)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
