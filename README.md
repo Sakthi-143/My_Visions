@@ -1,5 +1,18 @@
 # My_Visions
+<p style='text-align: justify;'> <a href="https://nbviewer.jupyter.org/github/Nyandwi/machine_learning_complete"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /> </a> <a href="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://deepnote.com/project/machinelearningcomplete-4vpZ-iGjRUeXCQpL5zcIsw/%2Fmachine_learning_complete%2F5_intro_to_machine_learning%2F5_intro_to_machine_learning.ipynb"><img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg" alt="Launch in Deepnote"/></a> </p>
 
+
+
+***Techniques, tools, best practices, and everything you need to to learn machine learning!***
+
+![tools](images/git_cover.png)
+
+
+[Complete Machine Learning Package](https://nyandwi.com/machine_learning_complete/) is a comprehensive repository containing 35 notebooks on Python programming, data manipulation, data analysis, data visualization, data cleaning, classical machine learning, Computer Vision and Natural Language Processing(NLP). 
+
+All notebooks were created with the readers in mind. Every notebook starts with a high-level overview of any specific algorithm/concept being covered. Wherever possible, visuals are used to make things clear.
+
+*******
 # Data Collection and Cleaning 
 
 ## Overview
